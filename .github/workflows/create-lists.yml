@@ -9,8 +9,8 @@ on:
       - Services/**
       - src/**
       - convert.py
-  schedule:
-    - cron: '29 8 * * 1'
+  # schedule:
+  #   - cron: '29 8 * * 1'
 
 permissions:
   contents: write
