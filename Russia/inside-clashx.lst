@@ -28,6 +28,7 @@ DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alphacoders.com
 DOMAIN-SUFFIX,alza.hu
 DOMAIN-SUFFIX,amazfitwatchfaces.com
+DOMAIN-SUFFIX,amazon.com
 DOMAIN-SUFFIX,amdm.ru
 DOMAIN-SUFFIX,amedia.site
 DOMAIN-SUFFIX,amnezia.org
@@ -60,6 +61,7 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
+DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,azathabar.com
 DOMAIN-SUFFIX,azattyq.org
 DOMAIN-SUFFIX,babook.org
@@ -193,6 +195,8 @@ DOMAIN-SUFFIX,dreamhost.com
 DOMAIN-SUFFIX,ducati.com
 DOMAIN-SUFFIX,dw.com
 DOMAIN-SUFFIX,e621.net
+DOMAIN-SUFFIX,ebalka.nl
+DOMAIN-SUFFIX,ebalka.ru
 DOMAIN-SUFFIX,echofm.online
 DOMAIN-SUFFIX,edu-cisco.org
 DOMAIN-SUFFIX,ef.com
@@ -203,6 +207,7 @@ DOMAIN-SUFFIX,ekhokavkaza.com
 DOMAIN-SUFFIX,element14.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,epidemz.net.co
+DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,euroradio.fm
 DOMAIN-SUFFIX,eutrp.eu
@@ -247,6 +252,7 @@ DOMAIN-SUFFIX,forum.netgate.com
 DOMAIN-SUFFIX,forum.ru-board.com
 DOMAIN-SUFFIX,foxnews.com
 DOMAIN-SUFFIX,framer.com
+DOMAIN-SUFFIX,freedomhouse.org
 DOMAIN-SUFFIX,freedomletters.org
 DOMAIN-SUFFIX,freeimages.com
 DOMAIN-SUFFIX,freemedia.io
@@ -344,6 +350,7 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,jskor.ill.in.ua
+DOMAIN-SUFFIX,jumia.com.eg
 DOMAIN-SUFFIX,jut-su.net
 DOMAIN-SUFFIX,jut.su
 DOMAIN-SUFFIX,kaktus.media
@@ -501,6 +508,7 @@ DOMAIN-SUFFIX,patreon.com
 DOMAIN-SUFFIX,patriot.dp.ua
 DOMAIN-SUFFIX,pcgamesn.com
 DOMAIN-SUFFIX,pcmag.com
+DOMAIN-SUFFIX,peekvids.com
 DOMAIN-SUFFIX,periscope.tv
 DOMAIN-SUFFIX,pexels.com
 DOMAIN-SUFFIX,phncdn.com
@@ -574,6 +582,7 @@ DOMAIN-SUFFIX,rublacklist.net
 DOMAIN-SUFFIX,rule34.art
 DOMAIN-SUFFIX,rus.delfi.ee
 DOMAIN-SUFFIX,rus.jauns.lv
+DOMAIN-SUFFIX,rusoska.com
 DOMAIN-SUFFIX,rutor.info
 DOMAIN-SUFFIX,rutor.is
 DOMAIN-SUFFIX,rutor.org
@@ -597,10 +606,12 @@ DOMAIN-SUFFIX,sdxcentral.com
 DOMAIN-SUFFIX,seasonvar.ru
 DOMAIN-SUFFIX,selezen.org
 DOMAIN-SUFFIX,semnasem.org
+DOMAIN-SUFFIX,semrush.com
 DOMAIN-SUFFIX,sentry.io
 DOMAIN-SUFFIX,sephora.com
 DOMAIN-SUFFIX,servarr.com
 DOMAIN-SUFFIX,severreal.org
+DOMAIN-SUFFIX,sex.com
 DOMAIN-SUFFIX,sfdcopens.com
 DOMAIN-SUFFIX,shikimori.me
 DOMAIN-SUFFIX,shinyhardware.co.uk
@@ -609,6 +620,7 @@ DOMAIN-SUFFIX,shop.gameloft.com
 DOMAIN-SUFFIX,showip.net
 DOMAIN-SUFFIX,sibreal.org
 DOMAIN-SUFFIX,signal.org
+DOMAIN-SUFFIX,simcitybuildit.com
 DOMAIN-SUFFIX,simplex.chat
 DOMAIN-SUFFIX,simplex.im
 DOMAIN-SUFFIX,simplix.info
@@ -623,6 +635,8 @@ DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skycdp.com
 DOMAIN-SUFFIX,slashlib.me
 DOMAIN-SUFFIX,slavicsac.com
+DOMAIN-SUFFIX,sli.do
+DOMAIN-SUFFIX,slido.com
 DOMAIN-SUFFIX,smartbear.co
 DOMAIN-SUFFIX,smartbear.com
 DOMAIN-SUFFIX,smartdeploy.com
@@ -748,6 +762,7 @@ DOMAIN-SUFFIX,verstka.media
 DOMAIN-SUFFIX,vesma.one
 DOMAIN-SUFFIX,vesma.today
 DOMAIN-SUFFIX,vesty.co.il
+DOMAIN-SUFFIX,viber.com
 DOMAIN-SUFFIX,vice.com
 DOMAIN-SUFFIX,vine.co
 DOMAIN-SUFFIX,vipergirls.to
