@@ -748,6 +748,7 @@ ipset=/twttr.net/vpn_domains
 ipset=/twvid.com/vpn_domains
 ipset=/typing.com/vpn_domains
 ipset=/uaudio.com/vpn_domains
+ipset=/udemy.com/vpn_domains
 ipset=/ui.ill.in.ua/vpn_domains
 ipset=/ukr.net/vpn_domains
 ipset=/ukr.radio/vpn_domains

@@ -748,6 +748,7 @@
 /ip dns static add name=twvid.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=typing.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=uaudio.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=udemy.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ui.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ukr.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ukr.radio type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
