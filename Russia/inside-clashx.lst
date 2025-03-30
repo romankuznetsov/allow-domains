@@ -26,6 +26,7 @@ DOMAIN-SUFFIX,ai-chat.bsg.brave.com
 DOMAIN-SUFFIX,ai.com
 DOMAIN-SUFFIX,allegro.pl
 DOMAIN-SUFFIX,alphacoders.com
+DOMAIN-SUFFIX,altvpn.com
 DOMAIN-SUFFIX,alza.hu
 DOMAIN-SUFFIX,amazfitwatchfaces.com
 DOMAIN-SUFFIX,amazon.com
@@ -61,6 +62,8 @@ DOMAIN-SUFFIX,att.com
 DOMAIN-SUFFIX,attachments.f95zone.to
 DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
+DOMAIN-SUFFIX,avnteam.pro
+DOMAIN-SUFFIX,avteam.online
 DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,azathabar.com
 DOMAIN-SUFFIX,azattyq.org
@@ -145,6 +148,7 @@ DOMAIN-SUFFIX,cvedetails.com
 DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,cyxymu.info
 DOMAIN-SUFFIX,daemon-tools.cc
+DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,danbooru.donmai.us
 DOMAIN-SUFFIX,data-cdn.mbamupdates.com
 DOMAIN-SUFFIX,decrypt.day
@@ -241,6 +245,7 @@ DOMAIN-SUFFIX,fls.guru
 DOMAIN-SUFFIX,fluke.com
 DOMAIN-SUFFIX,flukenetworks.com
 DOMAIN-SUFFIX,fn-volga.ru
+DOMAIN-SUFFIX,fnac.com
 DOMAIN-SUFFIX,fonge.org
 DOMAIN-SUFFIX,footballapi.pulselive.com
 DOMAIN-SUFFIX,force-user-content.com
@@ -547,6 +552,7 @@ DOMAIN-SUFFIX,prowlarr.com
 DOMAIN-SUFFIX,pscp.tv
 DOMAIN-SUFFIX,psiphon.ca
 DOMAIN-SUFFIX,public.parsec.app
+DOMAIN-SUFFIX,purevpn.com
 DOMAIN-SUFFIX,qt.io
 DOMAIN-SUFFIX,quickconnect.to
 DOMAIN-SUFFIX,quora.com
@@ -695,6 +701,7 @@ DOMAIN-SUFFIX,thebarentsobserver.com
 DOMAIN-SUFFIX,thebell.io
 DOMAIN-SUFFIX,theins.press
 DOMAIN-SUFFIX,theins.ru
+DOMAIN-SUFFIX,themoscowtimes.com
 DOMAIN-SUFFIX,themoviedb.org
 DOMAIN-SUFFIX,thetruestory.news
 DOMAIN-SUFFIX,threads.net
