@@ -218,6 +218,7 @@ DOMAIN-SUFFIX,eutrp.eu
 DOMAIN-SUFFIX,everand.com
 DOMAIN-SUFFIX,exler.ru
 DOMAIN-SUFFIX,expres.online
+DOMAIN-SUFFIX,ext-twitch.tv
 DOMAIN-SUFFIX,extremetech.com
 DOMAIN-SUFFIX,f1.com
 DOMAIN-SUFFIX,f95-zone.to
@@ -355,6 +356,7 @@ DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.space
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,jskor.ill.in.ua
+DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,jumia.com.eg
 DOMAIN-SUFFIX,jut-su.net
 DOMAIN-SUFFIX,jut.su
@@ -394,6 +396,7 @@ DOMAIN-SUFFIX,lightning.ai
 DOMAIN-SUFFIX,linear.app
 DOMAIN-SUFFIX,linkedin.com
 DOMAIN-SUFFIX,linktr.ee
+DOMAIN-SUFFIX,live-video.net
 DOMAIN-SUFFIX,livetv.sx
 DOMAIN-SUFFIX,liveuamap.com
 DOMAIN-SUFFIX,locals.md
@@ -729,6 +732,7 @@ DOMAIN-SUFFIX,trailhead.com
 DOMAIN-SUFFIX,trellix.com
 DOMAIN-SUFFIX,trueblackmetalradio.com
 DOMAIN-SUFFIX,tsmc.com
+DOMAIN-SUFFIX,ttvnw.net
 DOMAIN-SUFFIX,ttwstatic.com
 DOMAIN-SUFFIX,turbobit.net
 DOMAIN-SUFFIX,tuta.com
@@ -740,6 +744,13 @@ DOMAIN-SUFFIX,tvrain.tv
 DOMAIN-SUFFIX,tweetdeck.com
 DOMAIN-SUFFIX,twimg.com
 DOMAIN-SUFFIX,twirpx.com
+DOMAIN-SUFFIX,twitch-shadow.net
+DOMAIN-SUFFIX,twitch.a2z.com
+DOMAIN-SUFFIX,twitch.tv
+DOMAIN-SUFFIX,twitchcdn-shadow.net
+DOMAIN-SUFFIX,twitchcdn.net
+DOMAIN-SUFFIX,twitchsvc-staging.tech
+DOMAIN-SUFFIX,twitchsvc.net
 DOMAIN-SUFFIX,twitpic.com
 DOMAIN-SUFFIX,twitter.biz
 DOMAIN-SUFFIX,twitter.com

@@ -218,6 +218,7 @@
 /ip dns static add name=everand.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=exler.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=expres.online type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=ext-twitch.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=extremetech.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=f1.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=f95-zone.to type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -355,6 +356,7 @@
 /ip dns static add name=jetbrains.space type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jnn-pa.googleapis.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jskor.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jtvnw.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jumia.com.eg type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut-su.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -394,6 +396,7 @@
 /ip dns static add name=linear.app type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=linkedin.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=linktr.ee type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=live-video.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=livetv.sx type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=liveuamap.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=locals.md type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -729,6 +732,7 @@
 /ip dns static add name=trellix.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=trueblackmetalradio.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=tsmc.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=ttvnw.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ttwstatic.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=turbobit.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=tuta.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -740,6 +744,13 @@
 /ip dns static add name=tweetdeck.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=twimg.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=twirpx.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitch-shadow.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitch.a2z.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitch.tv type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitchcdn-shadow.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitchcdn.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitchsvc-staging.tech type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=twitchsvc.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=twitpic.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=twitter.biz type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=twitter.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
