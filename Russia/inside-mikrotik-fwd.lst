@@ -122,6 +122,7 @@
 /ip dns static add name=clashroyaleapp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=claude.ai type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=clickup.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=cloudflare.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cms-twdigitalassets.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cnd2exp.online type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cock.li type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
