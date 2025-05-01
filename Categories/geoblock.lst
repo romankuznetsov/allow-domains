@@ -21,6 +21,18 @@ viber.com
 #Z:Cloudflare
 cloudflare.net
 
+#Z:GitHub Copilot
+#https://github.com/itdoginfo/allow-domains/discussions/75#discussioncomment-12359355
+api.github.com
+copilot.githubusercontent.com
+githubcopilot.com
+copilot-telemetry.githubusercontent.com
+origin-tracker.githubusercontent.com
+default.exp-tas.com
+v1.telemetry.coder.com
+copilot-proxy.githubusercontent.com
+individual.githubcopilot.com
+
 #Z:Twitch
 twitch.tv
 ttvnw.net
