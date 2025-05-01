@@ -395,7 +395,7 @@ if __name__ == '__main__':
     # Russia inside
     Path("Russia").mkdir(parents=True, exist_ok=True)
 
-    removeDomains = {'google.com', 'googletagmanager.com', 'github.com', 'githubusercontent.com', 'githubcopilot.com', 'microsoft.com', 'cloudflare-dns.com', 'parsec.app' }
+    removeDomains = {'google.com', 'googletagmanager.com', 'github.com', 'microsoft.com', 'cloudflare-dns.com', 'parsec.app' }
     removeDomainsKvas = {'google.com', 'googletagmanager.com', 'github.com', 'githubusercontent.com', 'githubcopilot.com', 'microsoft.com', 'cloudflare-dns.com', 'parsec.app', 't.co', 'ua' }
     
     inside_lists = [rusDomainsInsideCategories, rusDomainsInsideServices]
