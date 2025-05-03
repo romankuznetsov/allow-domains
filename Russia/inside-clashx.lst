@@ -219,6 +219,7 @@ DOMAIN-SUFFIX,ekhokavkaza.com
 DOMAIN-SUFFIX,element14.com
 DOMAIN-SUFFIX,elevenlabs.io
 DOMAIN-SUFFIX,epidemz.net.co
+DOMAIN-SUFFIX,etahub.com
 DOMAIN-SUFFIX,etsy.com
 DOMAIN-SUFFIX,euronews.com
 DOMAIN-SUFFIX,euroradio.fm
@@ -585,6 +586,7 @@ DOMAIN-SUFFIX,reddxxx.com
 DOMAIN-SUFFIX,redgifs.com
 DOMAIN-SUFFIX,redis.io
 DOMAIN-SUFFIX,redshieldvpn.com
+DOMAIN-SUFFIX,redtube.com
 DOMAIN-SUFFIX,remna.st
 DOMAIN-SUFFIX,remove.bg
 DOMAIN-SUFFIX,render-state.to
@@ -698,6 +700,8 @@ DOMAIN-SUFFIX,svoi.kr.ua
 DOMAIN-SUFFIX,svtv.org
 DOMAIN-SUFFIX,swagger.io
 DOMAIN-SUFFIX,swissinfo.ch
+DOMAIN-SUFFIX,sx.cdn.live
+DOMAIN-SUFFIX,sxccdn.com
 DOMAIN-SUFFIX,synoforum.com
 DOMAIN-SUFFIX,t.co
 DOMAIN-SUFFIX,tableau.com
@@ -833,9 +837,13 @@ DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
 DOMAIN-SUFFIX,xhamster.com
 DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,xhcdn.com
+DOMAIN-SUFFIX,xnxx-cdn.com
+DOMAIN-SUFFIX,xnxx.com
 DOMAIN-SUFFIX,xsts.auth.xboxlive.com
 DOMAIN-SUFFIX,xtracloud.net
 DOMAIN-SUFFIX,xv-ru.com
+DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yle.fi
 DOMAIN-SUFFIX,youtu.be
