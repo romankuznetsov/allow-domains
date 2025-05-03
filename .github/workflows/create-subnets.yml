@@ -1,13 +1,17 @@
 name: Create subnets
 
+# on:
+#   push:
+#     branches: [ "main" ]
+#     paths:
+#       - .github/workflows/create-subnets.yml
+#       - get-subnets.py
+#   schedule:
+#       - cron: '16 7 * * 1'
 on:
   push:
-    branches: [ "main" ]
-    paths:
-      - .github/workflows/create-subnets.yml
-      - get-subnets.py
-  # schedule:
-  #   - cron: '16 7 * * 1'
+    tags:
+      - '*'
 
 permissions:
   contents: write
