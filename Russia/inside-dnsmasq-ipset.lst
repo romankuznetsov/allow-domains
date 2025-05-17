@@ -362,6 +362,7 @@ ipset=/is.fi/vpn_domains
 ipset=/istories.media/vpn_domains
 ipset=/itninja.com/vpn_domains
 ipset=/itsmycity.ru/vpn_domains
+ipset=/ixbt.com/vpn_domains
 ipset=/jamf.com/vpn_domains
 ipset=/jetbrains.com/vpn_domains
 ipset=/jetbrains.space/vpn_domains
