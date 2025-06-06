@@ -296,6 +296,7 @@
 /ip dns static add name=gonitro.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=goodreads.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=googlevideo.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=gooxi.us type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gpsonextra.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=gr-assets.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=grafana.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
