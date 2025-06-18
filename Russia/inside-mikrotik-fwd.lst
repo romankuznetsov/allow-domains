@@ -371,6 +371,7 @@
 /ip dns static add name=jskor.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jtvnw.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jumia.com.eg type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jumpcloud.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut-su.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jut.su type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=kaktus.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
