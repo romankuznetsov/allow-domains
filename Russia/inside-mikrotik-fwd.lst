@@ -822,6 +822,7 @@
 /ip dns static add name=w.atwiki.jp type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=walmart.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=watermarkremover.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=wattpad.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=weather.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=webnames.ca type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=webtoons.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
