@@ -65,7 +65,6 @@ DOMAIN-SUFFIX,autodesk.com
 DOMAIN-SUFFIX,avira.com
 DOMAIN-SUFFIX,avnteam.pro
 DOMAIN-SUFFIX,avteam.online
-DOMAIN-SUFFIX,aws.amazon.com
 DOMAIN-SUFFIX,azathabar.com
 DOMAIN-SUFFIX,azattyq.org
 DOMAIN-SUFFIX,babook.org
@@ -78,6 +77,7 @@ DOMAIN-SUFFIX,bbci.co.uk
 DOMAIN-SUFFIX,bcbits.com
 DOMAIN-SUFFIX,bell-sw.com
 DOMAIN-SUFFIX,bellingcat.com
+DOMAIN-SUFFIX,bequiet.com
 DOMAIN-SUFFIX,bestbuy.com
 DOMAIN-SUFFIX,bestchange.ru
 DOMAIN-SUFFIX,bihus.info
@@ -296,6 +296,7 @@ DOMAIN-SUFFIX,golosameriki.com
 DOMAIN-SUFFIX,gonitro.com
 DOMAIN-SUFFIX,goodreads.com
 DOMAIN-SUFFIX,googlevideo.com
+DOMAIN-SUFFIX,gooxi.us
 DOMAIN-SUFFIX,gpsonextra.net
 DOMAIN-SUFFIX,gr-assets.com
 DOMAIN-SUFFIX,grafana.com
@@ -362,6 +363,7 @@ DOMAIN-SUFFIX,is.fi
 DOMAIN-SUFFIX,istories.media
 DOMAIN-SUFFIX,itninja.com
 DOMAIN-SUFFIX,itsmycity.ru
+DOMAIN-SUFFIX,ixbt.com
 DOMAIN-SUFFIX,jamf.com
 DOMAIN-SUFFIX,jetbrains.com
 DOMAIN-SUFFIX,jetbrains.space
@@ -369,6 +371,7 @@ DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,jskor.ill.in.ua
 DOMAIN-SUFFIX,jtvnw.net
 DOMAIN-SUFFIX,jumia.com.eg
+DOMAIN-SUFFIX,jumpcloud.com
 DOMAIN-SUFFIX,jut-su.net
 DOMAIN-SUFFIX,jut.su
 DOMAIN-SUFFIX,kaktus.media
@@ -456,6 +459,7 @@ DOMAIN-SUFFIX,navalny.com
 DOMAIN-SUFFIX,nba.com
 DOMAIN-SUFFIX,neformat.com.ua
 DOMAIN-SUFFIX,neo4j.com
+DOMAIN-SUFFIX,netapp.com
 DOMAIN-SUFFIX,netflix.ca
 DOMAIN-SUFFIX,netflix.com
 DOMAIN-SUFFIX,netflix.net
@@ -819,6 +823,7 @@ DOMAIN-SUFFIX,vpnpay.io
 DOMAIN-SUFFIX,w.atwiki.jp
 DOMAIN-SUFFIX,walmart.com
 DOMAIN-SUFFIX,watermarkremover.io
+DOMAIN-SUFFIX,wattpad.com
 DOMAIN-SUFFIX,weather.com
 DOMAIN-SUFFIX,webnames.ca
 DOMAIN-SUFFIX,webtoons.com
