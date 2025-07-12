@@ -51,7 +51,7 @@ def raw(src, out):
 
 def dnsmasq(src, out, remove={'google.com'}):
     domains = set()
-    domains_single = set()
+    youtube_domains = set()
     files = []
 
     if isinstance(src, list):
@@ -64,24 +64,38 @@ def dnsmasq(src, out, remove={'google.com'}):
 
     for f in files:
         if f.is_file():
+            is_youtube = f.name == "youtube.lst"
             with open(f) as infile:
-                    for line in infile:
-                        if tldextract.extract(line).suffix:
-                            if re.search(r'[^а-я\-]', tldextract.extract(line).domain):
-                                domains.add(tldextract.extract(line.rstrip()).fqdn)
-                            if not tldextract.extract(line).domain and tldextract.extract(line).suffix:
-                                domains.add("." + tldextract.extract(line.rstrip()).suffix)
+                for line in infile:
+                    if tldextract.extract(line).suffix:
+                        if re.search(r'[^а-я\-]', tldextract.extract(line).domain):
+                            domain = tldextract.extract(line.rstrip()).fqdn
+                            if is_youtube:
+                                youtube_domains.add(domain)
+                            else:
+                                domains.add(domain)
+                        if not tldextract.extract(line).domain and tldextract.extract(line).suffix:
+                            domain = "." + tldextract.extract(line.rstrip()).suffix
+                            if is_youtube:
+                                youtube_domains.add(domain)
+                            else:
+                                domains.add(domain)
 
     domains = domains - remove
     domains = sorted(domains)
+    youtube_domains = sorted(youtube_domains)
 
     with open(f'{out}-dnsmasq-nfset.lst', 'w') as file:
         for name in domains:
             file.write(f'nftset=/{name}/4#inet#fw4#vpn_domains\n')
+        for name in youtube_domains:
+            file.write(f'nftset=/{name}/4#inet#fw4#vpn_youtube\n')
 
     with open(f'{out}-dnsmasq-ipset.lst', 'w') as file:
         for name in domains:
             file.write(f'ipset=/{name}/vpn_domains\n')
+        for name in youtube_domains:
+            file.write(f'ipset=/{name}/vpn_youtube\n')
 
 def clashx(src, out, remove={'google.com'}):
     domains = set()
