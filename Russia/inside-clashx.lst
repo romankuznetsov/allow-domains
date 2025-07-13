@@ -107,6 +107,7 @@ DOMAIN-SUFFIX,cats.com
 DOMAIN-SUFFIX,cbilling.eu
 DOMAIN-SUFFIX,cbilling.vip
 DOMAIN-SUFFIX,cdn.web-platform.io
+DOMAIN-SUFFIX,cdn77.com
 DOMAIN-SUFFIX,cdnbunny.org
 DOMAIN-SUFFIX,cdninstagram.com
 DOMAIN-SUFFIX,cdromance.org
@@ -145,6 +146,7 @@ DOMAIN-SUFFIX,copilot.microsoft.com
 DOMAIN-SUFFIX,corsair.com
 DOMAIN-SUFFIX,coursera.org
 DOMAIN-SUFFIX,cpu-monkey.com
+DOMAIN-SUFFIX,craft.cloud
 DOMAIN-SUFFIX,credly.com
 DOMAIN-SUFFIX,crunchyroll.com
 DOMAIN-SUFFIX,csskor.ill.in.ua
@@ -276,6 +278,7 @@ DOMAIN-SUFFIX,gamedistribution.com
 DOMAIN-SUFFIX,gamesrepack.com
 DOMAIN-SUFFIX,gaming.amazon.com
 DOMAIN-SUFFIX,gdb.rferl.org
+DOMAIN-SUFFIX,gdkhost.net
 DOMAIN-SUFFIX,geforcenow.com
 DOMAIN-SUFFIX,gelbooru.com
 DOMAIN-SUFFIX,gemini.google.com
@@ -312,6 +315,7 @@ DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,halooglasi.com
+DOMAIN-SUFFIX,hardforum.com
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,hdkinoteatr.com
 DOMAIN-SUFFIX,hdrezka.ac
@@ -362,6 +366,7 @@ DOMAIN-SUFFIX,iptv.online
 DOMAIN-SUFFIX,is.fi
 DOMAIN-SUFFIX,istories.media
 DOMAIN-SUFFIX,itninja.com
+DOMAIN-SUFFIX,itsfoss.com
 DOMAIN-SUFFIX,itsmycity.ru
 DOMAIN-SUFFIX,ixbt.com
 DOMAIN-SUFFIX,jamf.com
@@ -670,15 +675,19 @@ DOMAIN-SUFFIX,slido.com
 DOMAIN-SUFFIX,smartbear.co
 DOMAIN-SUFFIX,smartbear.com
 DOMAIN-SUFFIX,smartdeploy.com
+DOMAIN-SUFFIX,smicro.eu
 DOMAIN-SUFFIX,snort.org
 DOMAIN-SUFFIX,snyk.io
 DOMAIN-SUFFIX,sobesednik.com
+DOMAIN-SUFFIX,softperfect.com
 DOMAIN-SUFFIX,solarwinds.com
 DOMAIN-SUFFIX,sora.com
+DOMAIN-SUFFIX,sotechdesign.com.au
 DOMAIN-SUFFIX,soundcloud.com
 DOMAIN-SUFFIX,sovetromantica.com
 DOMAIN-SUFFIX,spacelift.io
 DOMAIN-SUFFIX,spektr.press
+DOMAIN-SUFFIX,spiceworks.com
 DOMAIN-SUFFIX,spitfireaudio.com
 DOMAIN-SUFFIX,spotify.com
 DOMAIN-SUFFIX,spreadthesign.com

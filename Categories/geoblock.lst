@@ -8,7 +8,10 @@ dailymotion.com
 etsy.com
 fnac.com
 freedomhouse.org
+gdkhost.net
 gooxi.us
+hardforum.com
+itsfoss.com
 ixbt.com
 jumia.com.eg
 jumpcloud.com
@@ -18,13 +21,19 @@ semrush.com
 simcitybuildit.com
 sli.do
 slido.com
+smicro.eu
+softperfect.com
+sotechdesign.com.au
+spiceworks.com
 themoscowtimes.com
 udemy.com
 viber.com
 wattpad.com
 
-#Z:Cloudflare
+#Z:CDNs
+cdn77.com
 cloudflare.net
+craft.cloud
 
 #Z:GitHub Copilot
 #https://github.com/itdoginfo/allow-domains/discussions/75#discussioncomment-12359355
