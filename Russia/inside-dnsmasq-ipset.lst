@@ -295,6 +295,7 @@ ipset=/getoutline.org/vpn_domains
 ipset=/gfn.am/vpn_domains
 ipset=/ghostrc.game.idtech.services/vpn_domains
 ipset=/githubcopilot.com/vpn_domains
+ipset=/gl-inet.com/vpn_domains
 ipset=/global.fncstatic.com/vpn_domains
 ipset=/glpals.com/vpn_domains
 ipset=/godaddy.com/vpn_domains
