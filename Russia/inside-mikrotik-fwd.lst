@@ -70,6 +70,7 @@
 /ip dns static add name=azattyq.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=babook.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=baginya.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=banana-pi.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bato.to type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bbc.co.uk type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bbc.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

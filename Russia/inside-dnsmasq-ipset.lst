@@ -70,6 +70,7 @@ ipset=/azathabar.com/vpn_domains
 ipset=/azattyq.org/vpn_domains
 ipset=/babook.org/vpn_domains
 ipset=/baginya.org/vpn_domains
+ipset=/banana-pi.org/vpn_domains
 ipset=/bato.to/vpn_domains
 ipset=/bbc.co.uk/vpn_domains
 ipset=/bbc.com/vpn_domains
