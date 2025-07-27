@@ -82,6 +82,7 @@
 /ip dns static add name=bestbuy.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bestchange.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bihus.info type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=bit-chats.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bitdefender.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=blackseanews.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=blinkshot.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -112,6 +113,7 @@
 /ip dns static add name=cats.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cbilling.eu type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cbilling.vip type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=cdn.larapush.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cdn.web-platform.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cdn77.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cdnbunny.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
