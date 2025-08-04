@@ -94,6 +94,7 @@
 /ip dns static add name=booth.pximg.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=botnadzor.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=brawlstarsgame.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=briarproject.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=broadcom.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=broncosportforum.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=bt4gprx.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -537,6 +538,7 @@
 /ip dns static add name=olx.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=omnissa.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=omv-extras.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=oneidentity.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=onfastspring.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=onlinesim.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=onshape.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
