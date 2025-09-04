@@ -166,6 +166,8 @@ DOMAIN-SUFFIX,cursorinfo.co.il
 DOMAIN-SUFFIX,cvedetails.com
 DOMAIN-SUFFIX,cyberghostvpn.com
 DOMAIN-SUFFIX,cyxymu.info
+DOMAIN-SUFFIX,d1do0znm134sif.cloudfront.net
+DOMAIN-SUFFIX,d1gyz2dzs4t2p.cloudfront.net
 DOMAIN-SUFFIX,daemon-tools.cc
 DOMAIN-SUFFIX,dailymotion.com
 DOMAIN-SUFFIX,danbooru.donmai.us
@@ -369,6 +371,9 @@ DOMAIN-SUFFIX,intel.com
 DOMAIN-SUFFIX,intel.de
 DOMAIN-SUFFIX,intel.nl
 DOMAIN-SUFFIX,intelix.sophos.com
+DOMAIN-SUFFIX,intellij.com
+DOMAIN-SUFFIX,intellij.net
+DOMAIN-SUFFIX,intellij.org
 DOMAIN-SUFFIX,interactivebrokers.co.uk
 DOMAIN-SUFFIX,interfax.com.ua
 DOMAIN-SUFFIX,internalfb.com
@@ -383,8 +388,16 @@ DOMAIN-SUFFIX,itsfoss.com
 DOMAIN-SUFFIX,itsmycity.ru
 DOMAIN-SUFFIX,ixbt.com
 DOMAIN-SUFFIX,jamf.com
+DOMAIN-SUFFIX,jetbrains.ai
 DOMAIN-SUFFIX,jetbrains.com
+DOMAIN-SUFFIX,jetbrains.com.cn
+DOMAIN-SUFFIX,jetbrains.dev
+DOMAIN-SUFFIX,jetbrains.net
+DOMAIN-SUFFIX,jetbrains.org
+DOMAIN-SUFFIX,jetbrains.ru
 DOMAIN-SUFFIX,jetbrains.space
+DOMAIN-SUFFIX,jetbrains.team
+DOMAIN-SUFFIX,jetbrainsmerchandise.com
 DOMAIN-SUFFIX,jnn-pa.googleapis.com
 DOMAIN-SUFFIX,jskor.ill.in.ua
 DOMAIN-SUFFIX,jtvnw.net
@@ -415,6 +428,9 @@ DOMAIN-SUFFIX,knowyourmeme.com
 DOMAIN-SUFFIX,kolsar.org
 DOMAIN-SUFFIX,kor.ill.in.ua
 DOMAIN-SUFFIX,korrespondent.net
+DOMAIN-SUFFIX,kotl.in
+DOMAIN-SUFFIX,kotlinconf.com
+DOMAIN-SUFFIX,kotlinlang.org
 DOMAIN-SUFFIX,kovcheg.live
 DOMAIN-SUFFIX,krymr.com
 DOMAIN-SUFFIX,kupujemprodajem.com
@@ -895,6 +911,7 @@ DOMAIN-SUFFIX,xv-ru.com
 DOMAIN-SUFFIX,xvideos-cdn.com
 DOMAIN-SUFFIX,xvideos.com
 DOMAIN-SUFFIX,yle.fi
+DOMAIN-SUFFIX,youtrack.cloud
 DOMAIN-SUFFIX,youtu.be
 DOMAIN-SUFFIX,youtube-nocookie.com
 DOMAIN-SUFFIX,youtube-ui.l.google.com

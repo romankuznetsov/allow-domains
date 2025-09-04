@@ -166,6 +166,8 @@
 /ip dns static add name=cvedetails.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cyberghostvpn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cyxymu.info type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=d1do0znm134sif.cloudfront.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=d1gyz2dzs4t2p.cloudfront.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=daemon-tools.cc type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=dailymotion.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=danbooru.donmai.us type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -369,6 +371,9 @@
 /ip dns static add name=intel.de type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=intel.nl type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=intelix.sophos.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=intellij.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=intellij.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=intellij.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=interactivebrokers.co.uk type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=interfax.com.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=internalfb.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -383,8 +388,16 @@
 /ip dns static add name=itsmycity.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ixbt.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jamf.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.ai type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jetbrains.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.com.cn type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.dev type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jetbrains.space type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrains.team type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=jetbrainsmerchandise.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jnn-pa.googleapis.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jskor.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=jtvnw.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -415,6 +428,9 @@
 /ip dns static add name=kolsar.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=kor.ill.in.ua type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=korrespondent.net type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=kotl.in type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=kotlinconf.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=kotlinlang.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=kovcheg.live type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=krymr.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=kupujemprodajem.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -895,6 +911,7 @@
 /ip dns static add name=xvideos-cdn.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=xvideos.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=yle.fi type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=youtrack.cloud type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=youtu.be type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=youtube-nocookie.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=youtube-ui.l.google.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
