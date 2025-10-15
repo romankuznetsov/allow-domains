@@ -13,6 +13,7 @@ DOMAIN-SUFFIX,9tv.co.il
 DOMAIN-SUFFIX,abercrombie.com
 DOMAIN-SUFFIX,abook-club.ru
 DOMAIN-SUFFIX,academy.terrasoft.ua
+DOMAIN-SUFFIX,accounts.google.com
 DOMAIN-SUFFIX,activatica.org
 DOMAIN-SUFFIX,adguard.com
 DOMAIN-SUFFIX,adidas.com
@@ -53,6 +54,8 @@ DOMAIN-SUFFIX,api.github.com
 DOMAIN-SUFFIX,api.service-kp.com
 DOMAIN-SUFFIX,api.theins.info
 DOMAIN-SUFFIX,api.themoviedb.org
+DOMAIN-SUFFIX,apis.google.com
+DOMAIN-SUFFIX,apps.google.com
 DOMAIN-SUFFIX,arbat.media
 DOMAIN-SUFFIX,archive.ph
 DOMAIN-SUFFIX,archiveofourown.org
@@ -134,6 +137,9 @@ DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyaleapp.com
 DOMAIN-SUFFIX,claude.ai
 DOMAIN-SUFFIX,clickup.com
+DOMAIN-SUFFIX,clients2.google.com
+DOMAIN-SUFFIX,clients4.google.com
+DOMAIN-SUFFIX,clients6.google.com
 DOMAIN-SUFFIX,clip.opus.pro
 DOMAIN-SUFFIX,cloudflare.net
 DOMAIN-SUFFIX,cloudtorrents.com
@@ -210,6 +216,7 @@ DOMAIN-SUFFIX,discordpartygames.com
 DOMAIN-SUFFIX,discordsays.com
 DOMAIN-SUFFIX,discours.io
 DOMAIN-SUFFIX,disctech.com
+DOMAIN-SUFFIX,docs.google.com
 DOMAIN-SUFFIX,docs.liquibase.com
 DOMAIN-SUFFIX,dorama.live
 DOMAIN-SUFFIX,doramalive.ru
@@ -272,6 +279,7 @@ DOMAIN-SUFFIX,flukenetworks.com
 DOMAIN-SUFFIX,fn-volga.ru
 DOMAIN-SUFFIX,fnac.com
 DOMAIN-SUFFIX,fonge.org
+DOMAIN-SUFFIX,fonts.gstatic.com
 DOMAIN-SUFFIX,footballapi.pulselive.com
 DOMAIN-SUFFIX,force-user-content.com
 DOMAIN-SUFFIX,force.com
@@ -329,6 +337,7 @@ DOMAIN-SUFFIX,habr.com
 DOMAIN-SUFFIX,hackernoon.com
 DOMAIN-SUFFIX,hackmd.io
 DOMAIN-SUFFIX,halooglasi.com
+DOMAIN-SUFFIX,hangouts.googleapis.com
 DOMAIN-SUFFIX,hardforum.com
 DOMAIN-SUFFIX,hashicorp.com
 DOMAIN-SUFFIX,hdkinoteatr.com
@@ -440,6 +449,7 @@ DOMAIN-SUFFIX,lamcdn.net
 DOMAIN-SUFFIX,ldoceonline.com
 DOMAIN-SUFFIX,le-production.tv
 DOMAIN-SUFFIX,leafletjs.com
+DOMAIN-SUFFIX,lh3.googleusercontent.com
 DOMAIN-SUFFIX,libgen.li
 DOMAIN-SUFFIX,licdn.com
 DOMAIN-SUFFIX,lidarr.audio
@@ -473,6 +483,9 @@ DOMAIN-SUFFIX,mediazona.ca
 DOMAIN-SUFFIX,medicalnewstoday.com
 DOMAIN-SUFFIX,medium.com
 DOMAIN-SUFFIX,meduza.io
+DOMAIN-SUFFIX,meet.google.com
+DOMAIN-SUFFIX,meetings.clients6.google.com
+DOMAIN-SUFFIX,meetings.googleapis.com
 DOMAIN-SUFFIX,megapeer.ru
 DOMAIN-SUFFIX,megapeer.vip
 DOMAIN-SUFFIX,merezha.co
@@ -749,6 +762,7 @@ DOMAIN-SUFFIX,steamstat.info
 DOMAIN-SUFFIX,strana.news
 DOMAIN-SUFFIX,strana.today
 DOMAIN-SUFFIX,strava.com
+DOMAIN-SUFFIX,stream.meet.google.com
 DOMAIN-SUFFIX,suggestqueries.google.com
 DOMAIN-SUFFIX,supercell.com
 DOMAIN-SUFFIX,supersliv.biz
@@ -897,6 +911,7 @@ DOMAIN-SUFFIX,wilsoncenter.org
 DOMAIN-SUFFIX,windows10spotlight.com
 DOMAIN-SUFFIX,wonderzine.com
 DOMAIN-SUFFIX,wpengine.com
+DOMAIN-SUFFIX,www.gstatic.com
 DOMAIN-SUFFIX,www3.corsair.com
 DOMAIN-SUFFIX,x.ai
 DOMAIN-SUFFIX,x.com
