@@ -580,6 +580,7 @@ ipset=/ovd.legal/vpn_domains
 ipset=/ovd.news/vpn_domains
 ipset=/ovdinfo.org/vpn_domains
 ipset=/ozodi.org/vpn_domains
+ipset=/ozon.ru/vpn_domains
 ipset=/pages.dev/vpn_domains
 ipset=/pap.pl/vpn_domains
 ipset=/paperpaper.io/vpn_domains

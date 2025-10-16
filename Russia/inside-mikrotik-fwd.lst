@@ -583,6 +583,7 @@
 /ip dns static add name=ovd.news type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ovdinfo.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=ozodi.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=ozon.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pages.dev type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=pap.pl type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=paperpaper.io type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
