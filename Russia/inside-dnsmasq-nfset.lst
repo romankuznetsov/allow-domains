@@ -870,6 +870,7 @@ nftset=/upwork.com/4#inet#fw4#vpn_domains
 nftset=/usa.one/4#inet#fw4#vpn_domains
 nftset=/v1.telemetry.coder.com/4#inet#fw4#vpn_domains
 nftset=/vagrantcloud.com/4#inet#fw4#vpn_domains
+nftset=/vdsina.com/4#inet#fw4#vpn_domains
 nftset=/veeam.com/4#inet#fw4#vpn_domains
 nftset=/verstka.media/4#inet#fw4#vpn_domains
 nftset=/vesma.one/4#inet#fw4#vpn_domains

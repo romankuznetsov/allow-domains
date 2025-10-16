@@ -870,6 +870,7 @@ ipset=/upwork.com/vpn_domains
 ipset=/usa.one/vpn_domains
 ipset=/v1.telemetry.coder.com/vpn_domains
 ipset=/vagrantcloud.com/vpn_domains
+ipset=/vdsina.com/vpn_domains
 ipset=/veeam.com/vpn_domains
 ipset=/verstka.media/vpn_domains
 ipset=/vesma.one/vpn_domains
