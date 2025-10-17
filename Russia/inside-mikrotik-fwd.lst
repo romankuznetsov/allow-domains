@@ -67,6 +67,7 @@
 /ip dns static add name=audiobookbay.lu type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=autodesk.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=avira.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=avito.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=avnteam.pro type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=avteam.online type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=azathabar.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
