@@ -490,6 +490,8 @@
 /ip dns static add name=megapeer.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=megapeer.vip type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=merezha.co type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=meshcore.co.uk type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=meshtastic.org type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=meta.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=metacritic.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=metal-archives.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
