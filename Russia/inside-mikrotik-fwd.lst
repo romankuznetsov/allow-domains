@@ -133,6 +133,7 @@
 /ip dns static add name=chaturbate.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cherta.media type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=chess.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=chime.aws type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=cisco.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=clashofclans.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=clashroyaleapp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
@@ -729,6 +730,12 @@
 /ip dns static add name=sklatchiki.ru type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sky.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=skycdp.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=slack-edge.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=slack-files.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=slack-imgs.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=slack-status.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=slack.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
+/ip dns static add name=slackb.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=slashlib.me type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=slavicsac.com type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost
 /ip dns static add name=sli.do type=FWD address-list=allow-domains match-subdomain=yes forward-to=localhost

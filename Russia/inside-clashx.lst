@@ -133,6 +133,7 @@ DOMAIN-SUFFIX,chatgpt.com
 DOMAIN-SUFFIX,chaturbate.com
 DOMAIN-SUFFIX,cherta.media
 DOMAIN-SUFFIX,chess.com
+DOMAIN-SUFFIX,chime.aws
 DOMAIN-SUFFIX,cisco.com
 DOMAIN-SUFFIX,clashofclans.com
 DOMAIN-SUFFIX,clashroyaleapp.com
@@ -729,6 +730,12 @@ DOMAIN-SUFFIX,skladchik.com
 DOMAIN-SUFFIX,sklatchiki.ru
 DOMAIN-SUFFIX,sky.com
 DOMAIN-SUFFIX,skycdp.com
+DOMAIN-SUFFIX,slack-edge.com
+DOMAIN-SUFFIX,slack-files.com
+DOMAIN-SUFFIX,slack-imgs.com
+DOMAIN-SUFFIX,slack-status.com
+DOMAIN-SUFFIX,slack.com
+DOMAIN-SUFFIX,slackb.com
 DOMAIN-SUFFIX,slashlib.me
 DOMAIN-SUFFIX,slavicsac.com
 DOMAIN-SUFFIX,sli.do
